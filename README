@@ -1,0 +1,7 @@
+update.2022/02/25:
+modify the program flow, delete CUDA file. 
+now you can access image data via pointer.
+
+update.2022/03/01:
+add cvt_ByteOrder func. to convert byte order.
+add a new folder to measure execution time.
